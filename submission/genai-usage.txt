@@ -1,0 +1,15 @@
+"Give me a barebones HTML structure for my personal website without adding any additional sections"
+
+Here’s as barebones as it gets—just the essential HTML skeleton, no extra sections, no fluff:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name</title>
+</head>
+<body>
+
+</body>
+</html>
+If you want, I can strip it down even further (or add exactly one thing, like a linked CSS file, and nothing else).
