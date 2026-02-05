@@ -1,0 +1,36 @@
+.custom-navbar
+{
+    height: 10vh;
+    margin-bottom: 2rem;
+}
+
+.navbar-icon 
+{
+    height: 2rem;
+    object-fit: contain;
+}
+
+.main-img
+{
+    max-width: 100%;
+}
+
+.small-icon
+{
+    max-width: 50px;
+}
+
+.std-card
+{
+    width: 20vw;
+}
+
+.sec-header
+{
+    border-bottom: 2px solid black;
+}
+
+.b-space
+{
+    margin-bottom: 2rem;
+}
